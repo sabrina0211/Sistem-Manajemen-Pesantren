@@ -1,4 +1,9 @@
+## Halaman Utama 
+![alt text ](https://github.com/sabrina0211/Sistem-Manajemen-Pesantren/blob/main/Screenshot%20(294).png?raw=true)
+
+## Halaman Data Santri 
 ![alt text ](?raw=true)
+
 
 <!-- [in English README](https://github.com) 🇬🇧 👈 SOON -->
 
