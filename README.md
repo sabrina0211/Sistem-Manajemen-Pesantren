@@ -1,3 +1,15 @@
+## Pengkodean dan Pemrograman -Sistem-Manajaemen-Pesantren
+Source Code Sistem Manajemen Pondok Pesantrem
+
+## Tugas Pengkodean dan Pemrograman
+Nama : Sabrina Putri Sekaralim
+
+NIM  : 12030122140338
+
+Kelas: D
+
+Referensi Web : https://github.com/dibaliqaja/pesantren-cms
+
 ## Halaman Utama 
 ![alt text ](https://github.com/sabrina0211/Sistem-Manajemen-Pesantren/blob/main/Screenshot%20(294).png?raw=true)
 
@@ -15,8 +27,8 @@ Mengubah "Dashboard" menjadi "Home"
 ![alt text ](https://github.com/sabrina0211/Sistem-Manajemen-Pesantren/blob/main/WhatsApp%20Image%202024-04-17%20at%2008.14.07.jpeg?raw=true)
 
 ## Halaman Data Santri (Setelah di Edit)
-Mengubah 
-![alt text ](?raw=true)
+Mengubah "Data Santri" menjadi "Data Siswa"
+![alt text ](https://github.com/sabrina0211/Sistem-Manajemen-Pesantren/blob/main/WhatsApp%20Image%202024-04-17%20at%2008.28.07.jpeg?raw=true)
 
 
 <!-- [in English README](https://github.com) 🇬🇧 👈 SOON -->
