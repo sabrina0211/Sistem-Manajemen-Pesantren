@@ -12,10 +12,11 @@
 
 ## Halaman Utama (Setelah di Edit)
 Mengubah "Dashboard" menjadi "Home"
-![alt text ](?raw=true)
+![alt text ](https://github.com/sabrina0211/Sistem-Manajemen-Pesantren/blob/main/WhatsApp%20Image%202024-04-17%20at%2008.14.07.jpeg?raw=true)
 
 ## Halaman Data Santri (Setelah di Edit)
 Mengubah 
+![alt text ](?raw=true)
 
 
 <!-- [in English README](https://github.com) 🇬🇧 👈 SOON -->
