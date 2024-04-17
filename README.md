@@ -10,6 +10,13 @@
 ## Halaman Biaya Pesantren
 ![alt text ](https://github.com/sabrina0211/Sistem-Manajemen-Pesantren/blob/main/Screenshot%20(297).png?raw=true)
 
+## Halaman Utama (Setelah di Edit)
+Mengubah "Dashboard" menjadi "Home"
+![alt text ](?raw=true)
+
+## Halaman Data Santri (Setelah di Edit)
+Mengubah 
+
 
 <!-- [in English README](https://github.com) 🇬🇧 👈 SOON -->
 
